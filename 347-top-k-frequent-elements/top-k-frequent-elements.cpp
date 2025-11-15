@@ -19,7 +19,7 @@ public:
             ans.push_back(minh.top().second);
             minh.pop();
         }
-        return{ans};
+        return ans;
     }
     
 };
