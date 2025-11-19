@@ -6,7 +6,6 @@ public:
                 original = original*2 ;
                 i=-1;
             }
-            else continue;
         }
         return original ;
     }
